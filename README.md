@@ -36,6 +36,6 @@ android:transitionName="atu"
 startActivity(intent, ActivityOptions.makeSceneTransitionAnimation(MainActivity.this,imageView,"atu").toBundle());
 ```
 ### capture
-<img src='C:\Users\Administrator\Desktop\atu.gif' width='240'/>
+<img src='app/src/main/res/drawable/atu1.gif' width='240'/>
 
 
